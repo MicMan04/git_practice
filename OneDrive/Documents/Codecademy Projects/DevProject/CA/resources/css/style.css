@@ -1,5 +1,6 @@
 button {
     flex-direction: row;
-    display: block;
+    padding: auto 16px;
+    
 }
     
