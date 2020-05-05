@@ -1,6 +1,3 @@
-.name {
+h1 .name {
     color: grey;
-}
-.name strong{
-    color: black;
 }
