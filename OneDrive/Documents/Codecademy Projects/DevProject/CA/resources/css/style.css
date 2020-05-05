@@ -1,5 +1,5 @@
 button {
     flex-direction: row;
-    display: inline;
+    display: block;
 }
     
