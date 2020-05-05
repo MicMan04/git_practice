@@ -1,1 +1,5 @@
-
+button {
+    flex-direction: row;
+    display: inline;
+}
+    
